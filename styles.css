@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+ 
+.dropdown-ahoj a   {
+    background-color: #36348E;
+    color: white !important;
+}
+.dropdown-ahoj .dropdown-menu {
+    background-color: #36348E;
+    border-radius: 10px;
+}
+.dropdown-ahoj ul li{
+    border-radius: 5px;
+    
+}
+nav{
+    
+    border-top: #36348E 10px solid;
+}
