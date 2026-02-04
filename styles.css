@@ -22,6 +22,19 @@ body{
     
 }
 nav{
-    
+    padding: 20px 10%;
     border-top: #36348E 10px solid;
+}
+
+.hero-content {
+    background-image: 
+        linear-gradient(to top, black, transparent), 
+        url('https://skolabaltaci.cz/wp-content/uploads/2024/06/10-1-scaled.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+}
+.hero{
+    min-height: 90vh;
+    display: flex;
 }
