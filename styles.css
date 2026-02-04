@@ -9,22 +9,6 @@ body{
 }
 
  
-.dropdown-ahoj a   {
-    background-color: #36348E;
-    color: white !important;
-}
-.dropdown-ahoj .dropdown-menu {
-    background-color: #36348E;
-    border-radius: 10px;
-}
-.dropdown-ahoj ul li{
-    border-radius: 5px;
-    
-}
-nav{
-    padding: 20px 10%;
-    border-top: #36348E 10px solid;
-}
 
 .hero-content {
     background-image: 
